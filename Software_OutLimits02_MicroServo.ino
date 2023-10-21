@@ -4,7 +4,7 @@
 //Using MicroServo SG90
 
 //Developed by David Morales Arellano
-//Date: 12/10/23
+//Date: 21/10/23
 
 //LIBRERIAS
 #include <Servo.h>
