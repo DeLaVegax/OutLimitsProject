@@ -2,7 +2,7 @@
 //Barrier Parking Code of @OutLimits
 
 //Developed by David Morales Arellano
-//Date: 12/10/23
+//Date: 21/10/23
 
 #include <Stepper.h>
 
